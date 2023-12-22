@@ -1,5 +1,16 @@
 # Website-Dashboard_Smart_Warteg
 This website serves as a monitoring platform for overseeing the condition of a warung tegal (warteg) through sensors analyzed using machine learning. It provides real-time insights and data-driven observations to enhance the management and efficiency of the warteg, ensuring a seamless and optimized operation.
+Steps to run a website
+
+Turn on the local mqtt broker which will connect to localhost:1883
+
+Turn on node-red and import node-red in the ../Dashboard/node_red.json folder
+
+Deploy node-ed
+
+Now on cmd, go to the existing folder manage.py, ..\Dashboard\projectuas
+
+Run py manage.py runserver
 
 Dashboard:
 ![image](https://github.com/PetraWLeka/Website-Dashboard_Smart_Warteg/assets/113031872/33a38758-0f06-41df-a1e9-109dc89c37ee)
@@ -49,13 +60,7 @@ info:
  
 
 
-Steps to run a website
 
-Turn on the local mqtt broker which will connect to localhost:1883
-Turn on node-red and import node-red in the ../Dashboard/node_red.json folder
-Deploy node-ed
-Now on cmd, go to the existing folder manage.py, ..\Dashboard\projectuas
-Run py manage.py runserver
 
 
 
