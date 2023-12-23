@@ -6,11 +6,11 @@ Steps to run a website
 
 Turn on the local mqtt broker which will connect to localhost:1883
 
-Turn on node-red and import node-red in the ../Dashboard/node_red.json folder
+Turn on node-red and import node-red from node_red.json 
 
 Deploy node-ed
 
-Now on cmd, go to the existing folder manage.py, ..\Dashboard\projectuas
+Now on cmd, go to the existing folder manage.py, ..\projectuas
 
 Run py manage.py runserver
 
