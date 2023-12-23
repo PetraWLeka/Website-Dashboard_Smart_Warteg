@@ -10,7 +10,7 @@ Turn on node-red and import node-red from node_red.json
 
 Deploy node-ed
 
-Now on cmd, go to the existing folder manage.py, ..\projectuas
+Now on cmd, go to the existing folder manage.py, 
 
 Run py manage.py runserver
 
